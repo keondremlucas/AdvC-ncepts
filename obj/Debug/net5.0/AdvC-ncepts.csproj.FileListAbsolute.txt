@@ -1,0 +1,16 @@
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.csproj.AssemblyReference.cache
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.AssemblyInfoInputs.cache
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.AssemblyInfo.cs
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.csproj.CoreCompileInputs.cache
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.exe
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.deps.json
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.runtimeconfig.json
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.runtimeconfig.dev.json
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.dll
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\ref\AdvC-ncepts.dll
+C:\Users\lucas\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.pdb
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.dll
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\ref\AdvC-ncepts.dll
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.pdb
+C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.genruntimeconfig.cache
