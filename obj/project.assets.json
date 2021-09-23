@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\LTIUser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\AdvC-ncepts\\AdvC-ncepts.csproj",
+      "projectUniqueName": "C:\\Bootcamp\\C#\\Day 3\\AdvC-ncepts\\AdvC-ncepts.csproj",
       "projectName": "AdvC-ncepts",
-      "projectPath": "C:\\Users\\lucas\\AdvC-ncepts\\AdvC-ncepts.csproj",
-      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\AdvC-ncepts\\obj\\",
+      "projectPath": "C:\\Bootcamp\\C#\\Day 3\\AdvC-ncepts\\AdvC-ncepts.csproj",
+      "packagesPath": "C:\\Users\\LTIUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Bootcamp\\C#\\Day 3\\AdvC-ncepts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LTIUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
       }
     }
   }

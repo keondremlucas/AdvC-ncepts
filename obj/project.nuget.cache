@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVx48cPKzo7bB2e9BGh+QpZ5kNjNjANiFB+a4gwrbLMUoOnX/xAp+Y+M+KEAB+ePdg2YpU1K0rezkEgodNhKdQ==",
+  "dgSpecHash": "Z0DKpoJaB60kmiI+gs9eJEoO/LZyl62n7SvjohKqas5YR+HB1vBbMZQD8yEz1CISGitUZ6+sBQUw2ClNmNfO2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\AdvC-ncepts\\AdvC-ncepts.csproj",
+  "projectFilePath": "C:\\Bootcamp\\C#\\Day 3\\AdvC-ncepts\\AdvC-ncepts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

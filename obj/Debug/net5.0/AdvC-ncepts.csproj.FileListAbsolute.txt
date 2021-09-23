@@ -14,3 +14,19 @@ C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.dll
 C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\ref\AdvC-ncepts.dll
 C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.pdb
 C:\Users\lucas\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.genruntimeconfig.cache
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.csprojAssemblyReference.cache
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.AssemblyInfoInputs.cache
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.AssemblyInfo.cs
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.csproj.CoreCompileInputs.cache
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.dll
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\ref\AdvC-ncepts.dll
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.pdb
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.exe
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.deps.json
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.runtimeconfig.json
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.runtimeconfig.dev.json
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.dll
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\ref\AdvC-ncepts.dll
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\bin\Debug\net5.0\AdvC-ncepts.pdb
+C:\Bootcamp\C#\Day 3\AdvC-ncepts\obj\Debug\net5.0\AdvC-ncepts.genruntimeconfig.cache
